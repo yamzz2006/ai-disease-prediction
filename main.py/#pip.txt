@@ -1,0 +1,13 @@
+#pip install pymysql
+import pymysql
+from tkinter import*
+from tkinter import ttk
+from tkinter import messagebox
+import tkinter as tkinter
+
+#connection letter
+
+#guvi
+
+root=tk()
+root
